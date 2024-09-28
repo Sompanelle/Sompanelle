@@ -1,5 +1,5 @@
 # Hi! I'm Rj!
-## I’m currently working on [ValoStats](https://github.com/Yeeeef/ValoStats)
+## I’m currently working on 
 ## Contact: [Sompanelle](https://twitter.com/Sompanelle)
 <!--
 
