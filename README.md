@@ -1,5 +1,5 @@
 # Hi! I'm Rj!
-## I’m currently working on 
+## I’m currently working on Data Structures & Algorithms
 ## Contact: [Sompanelle](https://twitter.com/Sompanelle)
 <!--
 
